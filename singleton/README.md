@@ -1,0 +1,1 @@
+g++ template_singleton.cc -o template_singleton -std=c++14 -pthread
